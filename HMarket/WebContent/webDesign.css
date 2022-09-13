@@ -1,0 +1,182 @@
+.start_background{
+	background-color: #F5F5F5;
+}
+.etc_window{
+	background-color: #F5F5F5;
+	text-align: center;
+	border: ridge;
+	margin-top:40px;
+	margin-left: 300px;
+	margin-right: 300px;
+	padding : 30px 100px 30px 100px;
+}
+
+#login_form {
+    background-color: white;
+    border: 2px solid #E8E8E8;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 200px;
+    width: 20%;
+}
+
+#joinMembershipForm{
+	text-align:center;
+	border:ridge;
+	margin-top:100px;
+	margin-right:500px;
+	margin-left:500px;
+	padding:50px 100px 100px 100px;
+}
+
+#purchaseForm{
+	text-align:center;
+	border:ridge;
+	margin-top:100px;
+	margin-right:500px;
+	margin-left:500px;
+	padding: 50px 100px 100px 100px;
+}
+
+table {
+	width: 100%;
+    border-top: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+	border-bottom: 1px solid black;
+    padding: 20px;
+    text-align: center;
+}
+th {
+	background-color: #c8fa61;
+}
+td {
+	background-color: white;
+}
+
+.main_button {
+	font-size: 18px;
+	border-radius: 2px;
+	background-color: #288CFF;
+	border: none;
+	color: white;
+	padding: 24px 24px;
+	
+	transition-duration: 0.1s;
+}
+
+.main_button:hover {
+    background-color: #0064FF;
+}
+
+.etc_button {
+	font-size: 13px;
+	border-radius: 1px;
+	background-color: white;
+	border: 1px solid black;;
+	color: black;
+	padding: 18px 18px;
+	margin: 4px;
+	
+	transition-duration: 0.1s;
+}
+
+.etc_Button:hover {
+    background-color: #E0EBFF;
+}
+
+.small_etc_button {
+	font-size: 13px;
+	border-radius: 1px;
+	background-color: white;
+	border: 1px solid black;;
+	color: black;
+	padding: 9px 13px;
+	margin: 4px;
+	
+	transition-duration: 0.1s;
+}
+
+.small_etc_button:hover {
+    background-color: #E0EBFF;
+}
+
+.login_text{
+	width:280px; height:48px;
+	padding:15px;
+	font-size:17px;
+}
+
+.etc_text{
+	width:220px; height:32px;
+	padding:15px;
+	font-size:15px;
+}
+
+.input_count_text{
+	width:120px; height:28px;
+	padding:15px;
+	font-size:15px;
+}
+
+#enrolProductForm{
+	text-align:center;
+	border:ridge;
+	margin-top:100px;
+	margin-right:500px;
+	margin-left:500px;
+	padding : 30px 100px 50px 100px;
+}
+
+.c_menu{
+	width:200px;
+	background-color:#0abb26;
+	border-right:2px solid lightgray;
+	padding:0px;
+	margin:-40px 0 0 -9px;
+	position:fixed;
+	height:100%;
+}
+.c_menu li a{
+	text-decoration-line:none;
+	height:45px;
+	line-height:30px;
+	display:block;
+	padding:15px 0 0 20px;
+	border-bottom: 1px solid white;
+	margin-top:0;
+	font-size:17px;
+	font-weight:bold;
+	color:white;
+}
+.c_menu li a:hover{
+	background-color:white;
+	color:black;
+}
+
+.v_menu{
+	width:200px;
+	background-color:#006bff;
+	border-right:2px solid lightgray;
+	padding:0px;
+	margin:-40px 0 0 -9px;
+	position:fixed;
+	height:100%;
+}
+.v_menu li a{
+	text-decoration-line:none;
+	height:45px;
+	line-height:30px;
+	display:block;
+	padding:15px 0 0 20px;
+	border-bottom: 1px solid white;
+	margin-top:0;
+	font-size:17px;
+	font-weight:bold;
+	color:white;
+}
+.v_menu li a:hover{
+	background-color:white;
+	color:black;
+}

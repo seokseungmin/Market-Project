@@ -72,10 +72,29 @@
 ## 고객 홈 인터페이스
 <center><img src="/HMarket/images/고객홈인터페이스.png" width="100%" height="100%"></center>
 
+## 구매할 상품 정보
+<center><img src="/HMarket/images/구매할상품정보.PNG" width="100%" height="100%"></center>
+
+## 주문 조회
+<center><img src="/HMarket/images/주문조회.PNG" width="100%" height="100%"></center>
+
+## 주문 취소
+<center><img src="/HMarket/images/주문취소.PNG" width="100%" height="100%"></center>
+
+## 배송 조회
+<center><img src="/HMarket/images/배송조회.PNG" width="100%" height="100%"></center>
+
 ## 판매업체 홈 인터페이스
 <center><img src="/HMarket/images/판매업체홈인터페이스.png" width="100%" height="100%"></center>
 
+## 상품 정보 입력
+<center><img src="/HMarket/images/상품 정보입력.PNG" width="100%" height="100%"></center>
 
+## 요청 주문건 리스트
+<center><img src="/HMarket/images/요청주문건리스트.PNG" width="100%" height="100%"></center>
+
+## 취소 주문 조회
+<center><img src="/HMarket/images/취소 주문조회.PNG" width="100%" height="100%"></center>
 
 # 마무리
 

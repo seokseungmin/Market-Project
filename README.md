@@ -1,9 +1,13 @@
+<center><img src="/HMarket/images/main.PNG" width="100%" height="100%"></center>
+
 # HMarket - 데이터베이스 프로그래밍 팀프로젝트
-`팀원` : 임한울(팀장), 석승민, 허우행, 김민서, 이유진<br>
-`내 역할` : DB 연동부터 데이터 삽입, 삭제, 조회, 수정 등 주문처리 시스템 기능 구현
+`팀원` : `팀장` 임한울, 석승민, 허우행, 김민서, 이유진<br>
+`내 역할` : 데이터베이스 설계 및 관리, CRUD 기능 구현, 주문 처리 시스템 백엔드 개발<br>
+
 
 ## 프로젝트 정보
-사용자가 편리하게 상품을 등록하고 판매할 수 있는 시스템을 개발
+본 프로젝트는 사용자가 효율적으로 상품을 관리하고, 신속하게 거래할 수 있는 주문 관리 시스템의 개발에 중점을 두었습니다.<br>
+시스템은 직관적인 사용자 인터페이스(UI)와 강력한 데이터 처리 기능을 결합하여, 온라인 상거래 경험을 강화합니다.
 
 ## 프로젝트 소개
 
@@ -20,6 +24,13 @@
 ![html](https://skillicons.dev/icons?i=html)
 ![css](https://skillicons.dev/icons?i=css)
 ![javascript](https://skillicons.dev/icons?i=javascript)
+
+- Eclipse: 자바 기반 백엔드 로직 개발에 사용되는 통합 개발 환경(IDE).
+- Java: 서버 사이드 로직과 데이터베이스 상호 작용을 위한 주요 프로그래밍 언어.
+- JSP (JavaServer Pages): 웹 페이지를 동적으로 생성하고 서버 사이드 스크립팅을 지원하는 기술.
+- MySQL: 데이터를 저장하고 관리하기 위한 관계형 데이터베이스 시스템.
+- HTML/CSS: 사용자 인터페이스를 구성하는 마크업 언어와 스타일 시트 언어.
+- JavaScript: 동적인 웹 페이지 기능을 위한 클라이언트 사이드 스크립팅 언어.
 
 # 기능 / 작업
 
@@ -48,10 +59,20 @@
 - 고객에게 주문 및 배송 상태 알림
 
 # 화면
-<center><img src="/HMarket/images/고객홈인터페이스.png" width="100%" height="100%"></center>
+
+## 시작 인터페이스
 <center><img src="/HMarket/images/시작인터페이스.png" width="100%" height="100%"></center>
-<center><img src="/HMarket/images/판매업체홈인터페이스.png" width="100%" height="100%"></center>
+                                                                            
+## 회원가입 인터페이스
 <center><img src="/HMarket/images/회원가입 인터페이스.png" width="100%" height="100%"></center>
+
+## 고객 홈 인터페이스
+<center><img src="/HMarket/images/고객홈인터페이스.png" width="100%" height="100%"></center>
+
+## 판매업체 홈 인터페이스
+<center><img src="/HMarket/images/판매업체홈인터페이스.png" width="100%" height="100%"></center>
+
+
 
 # 마무리
 

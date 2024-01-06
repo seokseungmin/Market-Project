@@ -60,6 +60,9 @@
 
 # 화면
 
+## Entity Relationship Diagram (ERD)
+<center><img src="/HMarket/images/ERD.png" width="100%" height="100%"></center>
+
 ## 시작 인터페이스
 <center><img src="/HMarket/images/시작인터페이스.png" width="100%" height="100%"></center>
                                                                             

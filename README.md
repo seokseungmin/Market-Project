@@ -34,7 +34,7 @@
 
 # 개발 환경
 - JDK 1.8
-- Eclipse Oxygen
+- Eclipse Oxygen 3
 - MySQL 5.5
 
 # 기능 / 작업
